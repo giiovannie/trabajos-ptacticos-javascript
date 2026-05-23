@@ -9,7 +9,7 @@ let notas = [10,7,9,6,7]
 let promedio = 0;
 
 for(let num of notas){
-    promedio += prom
+    promedio += num
 }
 
 promedio /= notas.length
