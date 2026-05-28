@@ -1,0 +1,41 @@
+¿Qué diferencia hay entre let y const? 
+Let es un variable con declaración más moderna que tiene un alcance de bloque es decir que se puede acceder a ella en el lugar en donde se encuentra, con esta declaracion se pueden reasignar valores  y CONST es una variable en el que e flujo del programa su valor nunca va a cambiar
+ Sí / No : si lo eh entendido 
+
+¿Qué tipo de dato representa true o false?  
+Los datos true y false, son del tipo booleano  
+Sí / No si lo eh comprendido 
+
+¿Qué significa que una variable tenga scope  de bloque? 
+ Que una variable tenga un alcance o scope de bloe significa que esa variable es de bloque que no se puede acceder desde otro lugar al valorr de esa variable mas que dentro de donde se encuentra la misma  
+Sí / No: lo eh entendido 
+  
+¿Para qué sirve un if? 
+El if  sirve para hacer una accion por si se cumple una condicion , el if es una estrucctura de control se lectiv que se puede dividir en formas un if simple, un if de desicion de si o no, un if anidado.  
+ Sí / No eh entendido esto 
+
+¿Cuándo conviene usar un for?  
+Un for  conviene usar cuando sabemos la cantidad de vueltas o ciclos vamos a usar 
+Sí / No si entiendo esto
+¿Qué puede ocurrir si un while nunca cambia  su condición? 
+Si un while nunca cambia su condicion el bucle nunca se cierra
+Sí / No SI lo  entiendo
+  
+
+¿Para qué sirve console.log()?
+El console log es un mensaje de depuracion en donde se puede corroborar el flujo de errores o comprobar internamente el programa
+ Sí / No  si comprendo esto
+¿Qué diferencia hay entre == y ===?  
+ambos son operadores de comparacion el primero es de comparcion debil , compara si los valores son iguales pero no verfica si son del mismo tipo de dato y la ultima que es una comparacion estricta compara que los alores sean iguales y tambien el tipo de dato
+
+SI/NO eh comprendido esto
+¿Qué ventaja tienen las funciones flecha  sobre las declarativas? 
+  Una de las ventajas que tiene las funciones flechas es que tiene un un retorno implicito si se usa una sola expresion
+Sí / No  si eh entendido esto
+  
+¿Para qué sirve la desestructuración?
+es una forma de traer valores de un objeto usando llaves
+si/no si entiendo esto
+¿Qué hace el método push() en un arreglo?
+El metodo push agrega un valor al final de la ultima posicion de un array
+Sí / No si entiendo esto 
